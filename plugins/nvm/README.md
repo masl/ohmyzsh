@@ -30,5 +30,5 @@ These settings should go in your zshrc file, before Oh My Zsh is sourced:
   the command or an array of the commands.
 
 - **`NVM_AUTOLOAD`**: if `NVM_AUTOLOAD` is set to `1`, the plugin will automatically load a node version when
-  if finds a [`.nvmrc` file](https://github.com/nvm-sh/nvm#nvmrc) in the current working directory indicating
+  it finds a [`.nvmrc` file](https://github.com/nvm-sh/nvm#nvmrc) in the current working directory indicating
   which node version to load.
